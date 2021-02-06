@@ -2,7 +2,7 @@
 ### Continuous delivery for a static personal webpage
 
 #### Background
-The goal of this project is to achieve continuous delivery for a static personal webpage.
+The goal of this project is to achieve continuous delivery for a static personal webpage. The webpage template comes from OpenResumeTemplates.com.
 
 Compared to hardcopy, a digital webpage is convenient. Candidates could send a short URL link to companies or recruiters, and recruiters could look at the Resume anytime anywhere with a network and a device.
 
